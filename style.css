@@ -2,4 +2,22 @@
   text-align: center;
   background-color: aquamarine;
   font-family: "PT Sans", sans-serif;
+  font-size: 50px;
+  margin: 20px;
+}
+.post1 {
+  border-style: solid;
+  border-color: blue;
+  border-radius: 30px;
+  display: inline-block;
+  text-align: center;
+  background-color: cornsilk;
+  padding: 25px;
+  margin-top: 100px;
+  margin-right: 100px;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 25px;
+}
+.post1 img {
+  width: 300px;
 }
