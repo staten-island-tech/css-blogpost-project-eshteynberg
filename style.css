@@ -1,8 +1,9 @@
 .head {
   text-align: center;
-  background-color: aquamarine;
+  background-color: palegreen;
+  height: 90px;
   font-family: "PT Sans", sans-serif;
-  font-size: 50px;
+  font-size: 60px;
   margin: 20px;
 }
 .post1 {
@@ -11,7 +12,7 @@
   text-align: center;
   background-color: cornsilk;
   padding: 25px;
-  margin: 100px 100px;
+  margin: 90px 100px;
   font-family: "Rajdhani", sans-serif;
   font-size: 20px;
 }
@@ -36,8 +37,12 @@
   display: inline-block;
   text-align: center;
   background-color: cornsilk;
-  padding: 25px;
-  margin: 100px 100px;
+  padding: 30px 20px;
+  margin-top: 100px;
+  margin-left: 100px;
   font-family: "Rajdhani", sans-serif;
   font-size: 20px;
+}
+.post3 img {
+  width: 265px;
 }
