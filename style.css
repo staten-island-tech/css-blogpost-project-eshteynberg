@@ -1,16 +1,19 @@
 .head {
   text-align: center;
-  background-color: palegreen;
-  height: 90px;
-  font-family: "PT Sans", sans-serif;
-  font-size: 60px;
+  background-image: url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80");
+  height: 1000px;
+  font-family: "Cinzel Decorative", cursive;
+  color: #920e0e;
+  font-size: 200px;
   margin: 20px;
+  background-repeat: no-repeat;
+  background-size: center;
 }
 .post1 {
-  border: palegreen 15px solid;
+  border: #160303 15px solid;
   display: inline-block;
   text-align: center;
-  background-color: cornsilk;
+  background-color: #920e0e;
   padding: 25px;
   margin: 90px 100px;
   font-family: "Rajdhani", sans-serif;
@@ -20,10 +23,10 @@
   width: 300px;
 }
 .post2 {
-  border: cornsilk 15px solid;
+  border: #160303 15px solid;
   display: inline-block;
   text-align: center;
-  background-color: palegreen;
+  background-color: #920e0e;
   padding: 25px 39px;
   margin: 85px 100px;
   font-family: "Rajdhani", sans-serif;
@@ -33,10 +36,10 @@
   height: 205px;
 }
 .post3 {
-  border: palegreen 15px solid;
+  border: #160303 15px solid;
   display: inline-block;
   text-align: center;
-  background-color: cornsilk;
+  background-color: #920e0e;
   padding: 30px 20px;
   margin-top: 100px;
   margin-left: 100px;
