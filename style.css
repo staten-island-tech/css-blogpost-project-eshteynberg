@@ -1,3 +1,6 @@
+body {
+  background: linear-gradient(#da2d2d, #272822);
+}
 .head {
   text-align: center;
   background-image: url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80");
@@ -7,28 +10,28 @@
   font-size: 200px;
   margin: 20px;
   background-repeat: no-repeat;
-  background-size: center;
+  background-size: cover;
 }
 .post1 {
   border: #160303 15px solid;
   display: inline-block;
   text-align: center;
   background-color: #920e0e;
-  padding: 25px;
-  margin: 90px 100px;
+  padding: 40px 25px;
+  margin: 100px 100px;
   font-family: "Rajdhani", sans-serif;
   font-size: 20px;
 }
 .post1 img {
-  width: 300px;
+  width: 280px;
 }
 .post2 {
   border: #160303 15px solid;
   display: inline-block;
   text-align: center;
   background-color: #920e0e;
-  padding: 25px 39px;
-  margin: 85px 100px;
+  padding: 43px;
+  margin: 100px 100px;
   font-family: "Rajdhani", sans-serif;
   font-size: 20px;
 }
@@ -40,12 +43,11 @@
   display: inline-block;
   text-align: center;
   background-color: #920e0e;
-  padding: 30px 20px;
-  margin-top: 100px;
-  margin-left: 100px;
+  padding: 54px 18px 47px 18px;
+  margin: 100px 100px;
   font-family: "Rajdhani", sans-serif;
   font-size: 20px;
 }
 .post3 img {
-  width: 265px;
+  width: 290px;
 }
